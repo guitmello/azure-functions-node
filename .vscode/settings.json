@@ -1,0 +1,10 @@
+{
+    "azureFunctions.deploySubpath": ".",
+    "azureFunctions.projectLanguage": "JavaScript",
+    "azureFunctions.projectRuntime": "~1",
+    "debug.internalConsoleOptions": "neverOpen",
+    "azureFunctions.preDeployTask": "npm prune",
+    "prettier.printWidth": 200,
+    "prettier.tslintIntegration": true,
+    "prettier.trailingComma": "es5"
+}
